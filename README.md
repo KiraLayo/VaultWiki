@@ -1,2 +1,1 @@
 # VaultWiki
-# VaultWiki
