@@ -1,0 +1,10 @@
+# Obsidian workspace (changes too frequently)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude / Claudian sessions
+.claudian/sessions/
