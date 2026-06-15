@@ -28,3 +28,16 @@ title: "日志"
 - 创建: [[wiki/sources/LLM Wiki 蓝图]] (源摘要页)
 - 更新: CLAUDE.md, log.md, [[wiki/concepts/LLM Wiki]], index.md (全量引用更新)
 - 摘要: 唯一不在位的文件 llm-wiki.md 归档至 raw/，所有引用修复
+
+## [2026-06-15] ingest | AI 名词解释
+- 创建: [[wiki/sources/AI 名词解释]] (源摘要页)
+- 创建: [[wiki/overviews/AI 术语总览]] (改造为概览页，含 6 类术语速查表)
+- 创建: [[wiki/concepts/AI 核心概念]], [[wiki/concepts/AI Agent]], [[wiki/concepts/AI 关键技术]], [[wiki/concepts/AI 协议与架构]], [[wiki/concepts/AI 应用模式]] (5 个分类聚合概念页)
+- 创建: [[wiki/entities/AI Agent 开发框架]] (LangChain/CrewAI/AutoGen 对比)
+- 更新: index.md (8 个新条目), [[wiki/concepts/RAG]] (交叉引用), [[wiki/overviews/LLM Wiki 综述]] (页面地图)
+- 摘要: 摄入 AI 术语综合表，按"分类聚合"策略创建 1 概览 + 5 概念 + 1 实体 + 1 源，共 8 个新页面。概览页为术语速查入口，各分类页展开详解并形成交叉引用网络
+
+## [2026-06-15] lint | 全库检查
+- 结果: 零孤页 ✓, 零矛盾 ✓, 零过期 ✓, 模板完整 ✓
+- 修复: 4 处交叉引用缺口补全, 2 处 status stub→draft
+- 摘要: 14 页面全量检查通过。补全了 AI Agent 开发框架→AI 协议与架构、AI 关键技术→AI 协议与架构、AI Agent→AI 应用模式、AI 核心概念→AI 应用模式 四条双向链接

@@ -18,11 +18,11 @@ topics: ["知识管理", "LLM", "Obsidian"]
 
 | 类别 | 目录 | 已有页面 |
 |------|------|---------|
-| 概念 | `wiki/concepts/` | [[wiki/concepts/LLM Wiki]], [[wiki/concepts/RAG]] |
-| 实体 | `wiki/entities/` | [[wiki/entities/Obsidian]] |
+| 概念 | `wiki/concepts/` | [[wiki/concepts/LLM Wiki]], [[wiki/concepts/RAG]], [[wiki/concepts/AI Agent]], [[wiki/concepts/AI 核心概念]], [[wiki/concepts/AI 关键技术]], [[wiki/concepts/AI 协议与架构]], [[wiki/concepts/AI 应用模式]] |
+| 实体 | `wiki/entities/` | [[wiki/entities/Obsidian]], [[wiki/entities/AI Agent 开发框架]] |
 | 对比 | `wiki/comparisons/` | [[wiki/comparisons/LLM Wiki vs RAG]] |
-| 概览 | `wiki/overviews/` | 本页 |
-| 源 | `wiki/sources/` | — |
+| 概览 | `wiki/overviews/` | 本页, [[wiki/overviews/AI 术语总览]] |
+| 源 | `wiki/sources/` | [[wiki/sources/LLM Wiki 蓝图]], [[wiki/sources/AI 名词解释]] |
 
 ## 目录结构
 
