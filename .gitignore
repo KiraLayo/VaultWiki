@@ -8,3 +8,4 @@ Thumbs.db
 
 # Claude / Claudian sessions
 .claudian/sessions/
+.claudian/claudian-settings.json
